@@ -6,7 +6,7 @@ export const api = axios.create({
   baseURL: "https://fake-api-aluraflix-two.vercel.app",
   /* quita el comentario de esta API  pra hacer pruebas CRUD
   deberás ejecutar el comando `json-server -w -p 5555 db.json` */
-  // baseURL: "http://localhost:5555/",
+  // baseURL: "http://localhost:5173/",
 });
 
 // Función para realizar una búsqueda en la API

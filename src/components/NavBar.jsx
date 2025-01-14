@@ -1,10 +1,10 @@
 import { Link } from "react-router-dom";
-import logo from "../../public/img/Sofidev_flix_blue.png";
+import logo from "../../public/img/ecuador_16345288.png";
 import styled from "styled-components";
 const Logo = styled.img`
   display: flex;
-  width: 168.45px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   justify-content: center;
   align-items: center;
   flex-shrink: 0;
